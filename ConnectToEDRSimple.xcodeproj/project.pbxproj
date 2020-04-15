@@ -7,23 +7,87 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A810813121B45FC100512B60 /* PhonesCatalog.swift in Sources */ = {isa = PBXBuildFile; fileRef = A810813021B45FC000512B60 /* PhonesCatalog.swift */; };
+		A810813321B4690F00512B60 /* EmailsCatalog.swift in Sources */ = {isa = PBXBuildFile; fileRef = A810813221B4690F00512B60 /* EmailsCatalog.swift */; };
+		A810813521B4793F00512B60 /* PhoneDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = A810813421B4793F00512B60 /* PhoneDetails.swift */; };
+		A810813A21B59A5800512B60 /* Phones+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = A810813621B59A5800512B60 /* Phones+CoreDataClass.swift */; };
+		A810813B21B59A5800512B60 /* Phones+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = A810813721B59A5800512B60 /* Phones+CoreDataProperties.swift */; };
+		A810813C21B59A5800512B60 /* Emailes+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = A810813821B59A5800512B60 /* Emailes+CoreDataClass.swift */; };
+		A810813D21B59A5800512B60 /* Emailes+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = A810813921B59A5800512B60 /* Emailes+CoreDataProperties.swift */; };
+		A81584BB21CCBD21008734D5 /* QueryToEDR.swift in Sources */ = {isa = PBXBuildFile; fileRef = A81584BA21CCBD21008734D5 /* QueryToEDR.swift */; };
+		A8266A5721CA5B9200B974EE /* PopoverTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8266A5621CA5B9200B974EE /* PopoverTableViewController.swift */; };
+		A85CBBFA21746774004CAEF0 /* myExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85CBBF921746774004CAEF0 /* myExtension.swift */; };
 		A867A499214F8F44001E22FF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A867A498214F8F44001E22FF /* AppDelegate.swift */; };
 		A867A49B214F8F44001E22FF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A867A49A214F8F44001E22FF /* ViewController.swift */; };
 		A867A49E214F8F44001E22FF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A867A49C214F8F44001E22FF /* Main.storyboard */; };
 		A867A4A1214F8F44001E22FF /* ConnectToEDRSimple.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A867A49F214F8F44001E22FF /* ConnectToEDRSimple.xcdatamodeld */; };
-		A867A4A3214F8F61001E22FF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A867A4A2214F8F61001E22FF /* Assets.xcassets */; };
 		A867A4A6214F8F61001E22FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A867A4A4214F8F61001E22FF /* LaunchScreen.storyboard */; };
+		A87009E521F7BB57005B9031 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A87009E421F7BB56005B9031 /* Assets.xcassets */; };
+		A875FC6A21AF026400E7F9A1 /* SCRViewControllerObjC.m in Sources */ = {isa = PBXBuildFile; fileRef = A875FC6821AF026400E7F9A1 /* SCRViewControllerObjC.m */; };
+		A880A18421E4C58900E552B1 /* lic.rtf in Resources */ = {isa = PBXBuildFile; fileRef = A880A18321E4C58900E552B1 /* lic.rtf */; };
+		A880A18821E4C94000E552B1 /* manual.rtf in Resources */ = {isa = PBXBuildFile; fileRef = A880A18721E4C94000E552B1 /* manual.rtf */; };
+		A8A687D221B7C7C800B91037 /* ContactsClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8A687D121B7C7C800B91037 /* ContactsClass.swift */; };
+		A8B0BE8A21DCD81D00347171 /* EmailDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8B0BE8921DCD81D00347171 /* EmailDetails.swift */; };
+		A8B0BE8C21E12EC400347171 /* Information.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8B0BE8B21E12EC400347171 /* Information.swift */; };
+		A8B0BE9021E216CA00347171 /* License.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8B0BE8F21E216CA00347171 /* License.swift */; };
+		A8BE5AD1218A236C0000E6C8 /* FirmDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8BE5AD0218A236C0000E6C8 /* FirmDetails.swift */; };
+		A8CBF7BD216B82CF00CA640B /* AlertCancelOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8CBF7BC216B82CF00CA640B /* AlertCancelOperation.swift */; };
+		A8D07D30215F38B000737DFC /* GetDataFromEDR.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D07D2F215F38B000737DFC /* GetDataFromEDR.swift */; };
+		A8D07D32215F390100737DFC /* ParserDataFromEDR.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D07D31215F390100737DFC /* ParserDataFromEDR.swift */; };
+		A8D07D34215F392200737DFC /* ShowDataFromEDR.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D07D33215F392200737DFC /* ShowDataFromEDR.swift */; };
+		A8D07D38215F960E00737DFC /* ProgressHUD.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D07D37215F960E00737DFC /* ProgressHUD.swift */; };
+		A8D64CFE217F595E000A7700 /* OperationWithFinished.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D64CFD217F595E000A7700 /* OperationWithFinished.swift */; };
+		A8D64D01217F6BC8000A7700 /* CoreDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D64D00217F6BC8000A7700 /* CoreDataManager.swift */; };
+		A8D64D05217F6DA3000A7700 /* Catalog.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D64D04217F6DA3000A7700 /* Catalog.swift */; };
+		A8D64D07217F74F3000A7700 /* SearchFooter.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D64D06217F74F3000A7700 /* SearchFooter.swift */; };
+		A8D64D0A217F79B3000A7700 /* Firms+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D64D08217F79B3000A7700 /* Firms+CoreDataClass.swift */; };
+		A8D64D0B217F79B3000A7700 /* Firms+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D64D09217F79B3000A7700 /* Firms+CoreDataProperties.swift */; };
+		A8D64D0F217F7B4C000A7700 /* FirmsCatalog.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D64D0E217F7B4C000A7700 /* FirmsCatalog.swift */; };
+		A8D9C14A216F14ED001B73D5 /* CompanyDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D9C149216F14ED001B73D5 /* CompanyDetails.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A810813021B45FC000512B60 /* PhonesCatalog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhonesCatalog.swift; sourceTree = "<group>"; };
+		A810813221B4690F00512B60 /* EmailsCatalog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmailsCatalog.swift; sourceTree = "<group>"; };
+		A810813421B4793F00512B60 /* PhoneDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhoneDetails.swift; sourceTree = "<group>"; };
+		A810813621B59A5800512B60 /* Phones+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Phones+CoreDataClass.swift"; sourceTree = "<group>"; };
+		A810813721B59A5800512B60 /* Phones+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Phones+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		A810813821B59A5800512B60 /* Emailes+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Emailes+CoreDataClass.swift"; sourceTree = "<group>"; };
+		A810813921B59A5800512B60 /* Emailes+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Emailes+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		A81584BA21CCBD21008734D5 /* QueryToEDR.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QueryToEDR.swift; sourceTree = "<group>"; };
+		A8266A5621CA5B9200B974EE /* PopoverTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverTableViewController.swift; sourceTree = "<group>"; };
+		A85CBBF921746774004CAEF0 /* myExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myExtension.swift; sourceTree = "<group>"; };
 		A867A495214F8F44001E22FF /* ConnectToEDRSimple.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ConnectToEDRSimple.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A867A498214F8F44001E22FF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A867A49A214F8F44001E22FF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		A867A49D214F8F44001E22FF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A867A4A0214F8F44001E22FF /* ConnectToEDRSimple.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ConnectToEDRSimple.xcdatamodel; sourceTree = "<group>"; };
-		A867A4A2214F8F61001E22FF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A867A4A5214F8F61001E22FF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A867A4A7214F8F61001E22FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A87009E421F7BB56005B9031 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A875FC6721AF026400E7F9A1 /* SCRViewControllerObjC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SCRViewControllerObjC.h; sourceTree = "<group>"; };
+		A875FC6821AF026400E7F9A1 /* SCRViewControllerObjC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SCRViewControllerObjC.m; sourceTree = "<group>"; };
+		A875FC6921AF026400E7F9A1 /* UIScrollViewWithAutoLayout-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIScrollViewWithAutoLayout-Bridging-Header.h"; sourceTree = "<group>"; };
+		A880A18321E4C58900E552B1 /* lic.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = lic.rtf; sourceTree = "<group>"; };
+		A880A18721E4C94000E552B1 /* manual.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = manual.rtf; sourceTree = "<group>"; };
+		A8A687D121B7C7C800B91037 /* ContactsClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactsClass.swift; sourceTree = "<group>"; };
+		A8B0BE8921DCD81D00347171 /* EmailDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmailDetails.swift; sourceTree = "<group>"; };
+		A8B0BE8B21E12EC400347171 /* Information.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Information.swift; sourceTree = "<group>"; };
+		A8B0BE8F21E216CA00347171 /* License.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = License.swift; sourceTree = "<group>"; };
+		A8BE5AD0218A236C0000E6C8 /* FirmDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirmDetails.swift; sourceTree = "<group>"; };
+		A8CBF7BC216B82CF00CA640B /* AlertCancelOperation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertCancelOperation.swift; sourceTree = "<group>"; };
+		A8D07D2F215F38B000737DFC /* GetDataFromEDR.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetDataFromEDR.swift; sourceTree = "<group>"; };
+		A8D07D31215F390100737DFC /* ParserDataFromEDR.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParserDataFromEDR.swift; sourceTree = "<group>"; };
+		A8D07D33215F392200737DFC /* ShowDataFromEDR.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowDataFromEDR.swift; sourceTree = "<group>"; };
+		A8D07D37215F960E00737DFC /* ProgressHUD.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressHUD.swift; sourceTree = "<group>"; };
+		A8D64CFD217F595E000A7700 /* OperationWithFinished.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OperationWithFinished.swift; sourceTree = "<group>"; };
+		A8D64D00217F6BC8000A7700 /* CoreDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataManager.swift; sourceTree = "<group>"; };
+		A8D64D04217F6DA3000A7700 /* Catalog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Catalog.swift; sourceTree = "<group>"; };
+		A8D64D06217F74F3000A7700 /* SearchFooter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchFooter.swift; sourceTree = "<group>"; };
+		A8D64D08217F79B3000A7700 /* Firms+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Firms+CoreDataClass.swift"; sourceTree = "<group>"; };
+		A8D64D09217F79B3000A7700 /* Firms+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Firms+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		A8D64D0E217F7B4C000A7700 /* FirmsCatalog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirmsCatalog.swift; sourceTree = "<group>"; };
+		A8D9C149216F14ED001B73D5 /* CompanyDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompanyDetails.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +104,12 @@
 		A867A48C214F8F43001E22FF = {
 			isa = PBXGroup;
 			children = (
+				A87009E421F7BB56005B9031 /* Assets.xcassets */,
+				A880A17E21E4A14B00E552B1 /* MySources */,
+				A875FC6621AF01BF00E7F9A1 /* SCRViewControl */,
+				A8D64D03217F6D8B000A7700 /* Catalogs */,
+				A8D64CFF217F5ADB000A7700 /* CoreData */,
+				A8D07D2E215F385800737DFC /* Operation */,
 				A867A497214F8F44001E22FF /* ConnectToEDRSimple */,
 				A867A496214F8F44001E22FF /* Products */,
 			);
@@ -58,13 +128,80 @@
 			children = (
 				A867A498214F8F44001E22FF /* AppDelegate.swift */,
 				A867A49A214F8F44001E22FF /* ViewController.swift */,
+				A8D9C149216F14ED001B73D5 /* CompanyDetails.swift */,
 				A867A49C214F8F44001E22FF /* Main.storyboard */,
-				A867A4A2214F8F61001E22FF /* Assets.xcassets */,
+				A8B0BE8F21E216CA00347171 /* License.swift */,
 				A867A4A4214F8F61001E22FF /* LaunchScreen.storyboard */,
 				A867A4A7214F8F61001E22FF /* Info.plist */,
 				A867A49F214F8F44001E22FF /* ConnectToEDRSimple.xcdatamodeld */,
+				A8D07D37215F960E00737DFC /* ProgressHUD.swift */,
+				A85CBBF921746774004CAEF0 /* myExtension.swift */,
+				A8B0BE8B21E12EC400347171 /* Information.swift */,
 			);
 			path = ConnectToEDRSimple;
+			sourceTree = "<group>";
+		};
+		A875FC6621AF01BF00E7F9A1 /* SCRViewControl */ = {
+			isa = PBXGroup;
+			children = (
+				A875FC6721AF026400E7F9A1 /* SCRViewControllerObjC.h */,
+				A875FC6821AF026400E7F9A1 /* SCRViewControllerObjC.m */,
+				A875FC6921AF026400E7F9A1 /* UIScrollViewWithAutoLayout-Bridging-Header.h */,
+			);
+			path = SCRViewControl;
+			sourceTree = "<group>";
+		};
+		A880A17E21E4A14B00E552B1 /* MySources */ = {
+			isa = PBXGroup;
+			children = (
+				A880A18321E4C58900E552B1 /* lic.rtf */,
+				A880A18721E4C94000E552B1 /* manual.rtf */,
+			);
+			path = MySources;
+			sourceTree = "<group>";
+		};
+		A8D07D2E215F385800737DFC /* Operation */ = {
+			isa = PBXGroup;
+			children = (
+				A8D07D2F215F38B000737DFC /* GetDataFromEDR.swift */,
+				A81584BA21CCBD21008734D5 /* QueryToEDR.swift */,
+				A8D07D31215F390100737DFC /* ParserDataFromEDR.swift */,
+				A8D07D33215F392200737DFC /* ShowDataFromEDR.swift */,
+				A8CBF7BC216B82CF00CA640B /* AlertCancelOperation.swift */,
+				A8D64CFD217F595E000A7700 /* OperationWithFinished.swift */,
+			);
+			path = Operation;
+			sourceTree = "<group>";
+		};
+		A8D64CFF217F5ADB000A7700 /* CoreData */ = {
+			isa = PBXGroup;
+			children = (
+				A810813621B59A5800512B60 /* Phones+CoreDataClass.swift */,
+				A810813721B59A5800512B60 /* Phones+CoreDataProperties.swift */,
+				A810813821B59A5800512B60 /* Emailes+CoreDataClass.swift */,
+				A810813921B59A5800512B60 /* Emailes+CoreDataProperties.swift */,
+				A8D64D08217F79B3000A7700 /* Firms+CoreDataClass.swift */,
+				A8D64D09217F79B3000A7700 /* Firms+CoreDataProperties.swift */,
+				A8D64D00217F6BC8000A7700 /* CoreDataManager.swift */,
+			);
+			path = CoreData;
+			sourceTree = "<group>";
+		};
+		A8D64D03217F6D8B000A7700 /* Catalogs */ = {
+			isa = PBXGroup;
+			children = (
+				A8D64D04217F6DA3000A7700 /* Catalog.swift */,
+				A8D64D06217F74F3000A7700 /* SearchFooter.swift */,
+				A8D64D0E217F7B4C000A7700 /* FirmsCatalog.swift */,
+				A8BE5AD0218A236C0000E6C8 /* FirmDetails.swift */,
+				A8B0BE8921DCD81D00347171 /* EmailDetails.swift */,
+				A810813021B45FC000512B60 /* PhonesCatalog.swift */,
+				A810813221B4690F00512B60 /* EmailsCatalog.swift */,
+				A810813421B4793F00512B60 /* PhoneDetails.swift */,
+				A8A687D121B7C7C800B91037 /* ContactsClass.swift */,
+				A8266A5621CA5B9200B974EE /* PopoverTableViewController.swift */,
+			);
+			path = Catalogs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -99,6 +236,7 @@
 				TargetAttributes = {
 					A867A494214F8F44001E22FF = {
 						CreatedOnToolsVersion = 9.4.1;
+						LastSwiftMigration = 1010;
 					};
 				};
 			};
@@ -126,8 +264,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				A867A4A6214F8F61001E22FF /* LaunchScreen.storyboard in Resources */,
-				A867A4A3214F8F61001E22FF /* Assets.xcassets in Resources */,
+				A880A18821E4C94000E552B1 /* manual.rtf in Resources */,
+				A880A18421E4C58900E552B1 /* lic.rtf in Resources */,
 				A867A49E214F8F44001E22FF /* Main.storyboard in Resources */,
+				A87009E521F7BB57005B9031 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,8 +278,37 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A810813321B4690F00512B60 /* EmailsCatalog.swift in Sources */,
+				A81584BB21CCBD21008734D5 /* QueryToEDR.swift in Sources */,
+				A810813521B4793F00512B60 /* PhoneDetails.swift in Sources */,
+				A875FC6A21AF026400E7F9A1 /* SCRViewControllerObjC.m in Sources */,
+				A8D9C14A216F14ED001B73D5 /* CompanyDetails.swift in Sources */,
+				A8D07D30215F38B000737DFC /* GetDataFromEDR.swift in Sources */,
+				A8CBF7BD216B82CF00CA640B /* AlertCancelOperation.swift in Sources */,
+				A8D64CFE217F595E000A7700 /* OperationWithFinished.swift in Sources */,
+				A8D07D32215F390100737DFC /* ParserDataFromEDR.swift in Sources */,
+				A8D64D0B217F79B3000A7700 /* Firms+CoreDataProperties.swift in Sources */,
+				A8D64D05217F6DA3000A7700 /* Catalog.swift in Sources */,
+				A8D64D07217F74F3000A7700 /* SearchFooter.swift in Sources */,
+				A8D07D38215F960E00737DFC /* ProgressHUD.swift in Sources */,
+				A8D64D01217F6BC8000A7700 /* CoreDataManager.swift in Sources */,
 				A867A4A1214F8F44001E22FF /* ConnectToEDRSimple.xcdatamodeld in Sources */,
+				A810813D21B59A5800512B60 /* Emailes+CoreDataProperties.swift in Sources */,
+				A8B0BE8C21E12EC400347171 /* Information.swift in Sources */,
+				A8D64D0A217F79B3000A7700 /* Firms+CoreDataClass.swift in Sources */,
+				A8B0BE8A21DCD81D00347171 /* EmailDetails.swift in Sources */,
 				A867A49B214F8F44001E22FF /* ViewController.swift in Sources */,
+				A8B0BE9021E216CA00347171 /* License.swift in Sources */,
+				A8D07D34215F392200737DFC /* ShowDataFromEDR.swift in Sources */,
+				A8266A5721CA5B9200B974EE /* PopoverTableViewController.swift in Sources */,
+				A8BE5AD1218A236C0000E6C8 /* FirmDetails.swift in Sources */,
+				A810813C21B59A5800512B60 /* Emailes+CoreDataClass.swift in Sources */,
+				A810813B21B59A5800512B60 /* Phones+CoreDataProperties.swift in Sources */,
+				A810813A21B59A5800512B60 /* Phones+CoreDataClass.swift in Sources */,
+				A8A687D221B7C7C800B91037 /* ContactsClass.swift in Sources */,
+				A8D64D0F217F7B4C000A7700 /* FirmsCatalog.swift in Sources */,
+				A85CBBFA21746774004CAEF0 /* myExtension.swift in Sources */,
+				A810813121B45FC100512B60 /* PhonesCatalog.swift in Sources */,
 				A867A499214F8F44001E22FF /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -284,15 +453,21 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = 6J6L9WA58P;
 				INFOPLIST_FILE = ConnectToEDRSimple/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "KIT-2005.ConnectToEDRSimple";
+				PRODUCT_BUNDLE_IDENTIFIER = com.obaibuz.EDRCompanions;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				PROVISIONING_PROFILE_SPECIFIER = "EDR Companions iOS Development";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -301,18 +476,99 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = 6J6L9WA58P;
 				INFOPLIST_FILE = ConnectToEDRSimple/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "KIT-2005.ConnectToEDRSimple";
+				PRODUCT_BUNDLE_IDENTIFIER = com.obaibuz.EDRCompanions;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				PROVISIONING_PROFILE_SPECIFIER = "EDR Companions iOS App Store";
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
+		};
+		A8849BE422036FA2003C93A9 /* Ad Hoc */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = "Ad Hoc";
+		};
+		A8849BE522036FA2003C93A9 /* Ad Hoc */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = 6J6L9WA58P;
+				INFOPLIST_FILE = ConnectToEDRSimple/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.obaibuz.EDRCompanions;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "EDR Companions iOS Ad Hoc";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = "Ad Hoc";
 		};
 /* End XCBuildConfiguration section */
 
@@ -322,6 +578,7 @@
 			buildConfigurations = (
 				A867A4A8214F8F61001E22FF /* Debug */,
 				A867A4A9214F8F61001E22FF /* Release */,
+				A8849BE422036FA2003C93A9 /* Ad Hoc */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -331,6 +588,7 @@
 			buildConfigurations = (
 				A867A4AB214F8F61001E22FF /* Debug */,
 				A867A4AC214F8F61001E22FF /* Release */,
+				A8849BE522036FA2003C93A9 /* Ad Hoc */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
