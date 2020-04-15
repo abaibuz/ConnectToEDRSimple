@@ -1,0 +1,99 @@
+
+App Thinning Size Report for All Variants of ConnectToEDRSimple
+
+Variant: ConnectToEDRSimple-07D1C4C1-4A68-4B49-92DB-4664F1F8FC52.ipa
+Supported variant descriptors: [device: iPhone10,4, os-version: 11], [device: iPhone9,1, os-version: 11], [device: iPhone9,3, os-version: 11], and [device: iPhone10,1, os-version: 11]
+App + On Demand Resources size: 2.7 MB compressed, 8.8 MB uncompressed
+App size: 2.7 MB compressed, 8.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConnectToEDRSimple-09289E84-AC59-4955-9B3E-6B3EE7A9550F.ipa
+Supported variant descriptors: [device: iPad5,1, os-version: 12], [device: iPad7,5, os-version: 12], [device: iPad4,7, os-version: 12], [device: iPad7,6, os-version: 12], [device: iPad6,7, os-version: 12], [device: iPad6,8, os-version: 12], [device: iPad4,1, os-version: 12], [device: iPad4,4, os-version: 12], [device: iPad4,3, os-version: 12], [device: iPad4,6, os-version: 12], [device: iPad4,2, os-version: 12], [device: iPad4,8, os-version: 12], [device: iPad4,5, os-version: 12], [device: iPad5,3, os-version: 12], [device: iPad4,9, os-version: 12], [device: iPad5,4, os-version: 12], [device: iPad6,11, os-version: 12], [device: iPad5,2, os-version: 12], and [device: iPad6,12, os-version: 12]
+App + On Demand Resources size: 2.8 MB compressed, 8.8 MB uncompressed
+App size: 2.8 MB compressed, 8.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConnectToEDRSimple-0E493736-8230-4907-8EB3-603076CEC298.ipa
+Supported variant descriptors: [device: iPhone7,2, os-version: 11], [device: iPod7,1, os-version: 11], [device: iPhone6,1, os-version: 11], [device: iPhone8,1, os-version: 11], [device: iPhone8,4, os-version: 11], and [device: iPhone6,2, os-version: 11]
+App + On Demand Resources size: 2.7 MB compressed, 8.8 MB uncompressed
+App size: 2.7 MB compressed, 8.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConnectToEDRSimple-1B84D7A9-1CAE-4A0C-8199-5BBF20582A6E.ipa
+Supported variant descriptors: [device: iPhone8,1, os-version: 12], [device: iPhone8,4, os-version: 12], [device: iPhone6,2, os-version: 12], [device: iPod7,1, os-version: 12], [device: iPhone6,1, os-version: 12], and [device: iPhone7,2, os-version: 12]
+App + On Demand Resources size: 2.7 MB compressed, 8.8 MB uncompressed
+App size: 2.7 MB compressed, 8.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConnectToEDRSimple-2E12FAEA-5995-4B7E-8500-1723D3731D7F.ipa
+Supported variant descriptors: [device: iPad6,4, os-version: 12], [device: iPad7,4, os-version: 12], [device: iPad8,8, os-version: 12], [device: iPad8,1, os-version: 12], [device: iPad8,3, os-version: 12], [device: iPad8,2, os-version: 12], [device: iPad7,2, os-version: 12], [device: iPad7,1, os-version: 12], [device: iPad8,7, os-version: 12], [device: iPad8,5, os-version: 12], [device: iPad8,4, os-version: 12], [device: iPad8,6, os-version: 12], [device: iPad7,3, os-version: 12], and [device: iPad6,3, os-version: 12]
+App + On Demand Resources size: 2.8 MB compressed, 8.8 MB uncompressed
+App size: 2.8 MB compressed, 8.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConnectToEDRSimple-4F1F1907-D3C0-4AF0-BC23-2392E47243D4.ipa
+Supported variant descriptors: [device: iPhone7,1, os-version: 11] and [device: iPhone8,2, os-version: 11]
+App + On Demand Resources size: 2.8 MB compressed, 8.8 MB uncompressed
+App size: 2.8 MB compressed, 8.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConnectToEDRSimple-523D693D-E706-44C0-9897-073631306D04.ipa
+Supported variant descriptors: [device: iPad5,4, os-version: 11], [device: iPad7,5, os-version: 11], [device: iPad7,6, os-version: 11], [device: iPad4,6, os-version: 11], [device: iPad5,2, os-version: 11], [device: iPad4,2, os-version: 11], [device: iPad4,5, os-version: 11], [device: iPad4,8, os-version: 11], [device: iPad4,4, os-version: 11], [device: iPad6,11, os-version: 11], [device: iPad5,1, os-version: 11], [device: iPad5,3, os-version: 11], [device: iPad6,8, os-version: 11], [device: iPad4,9, os-version: 11], [device: iPad6,7, os-version: 11], [device: iPad4,3, os-version: 11], [device: iPad6,12, os-version: 11], [device: iPad4,1, os-version: 11], and [device: iPad4,7, os-version: 11]
+App + On Demand Resources size: 2.8 MB compressed, 8.8 MB uncompressed
+App size: 2.8 MB compressed, 8.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConnectToEDRSimple-5F56A1F2-39B1-4D86-975B-19F609AC1385.ipa
+Supported variant descriptors: [device: iPhone10,5, os-version: 12], [device: iPhone11,2, os-version: 12], [device: iPhone11,6, os-version: 12], [device: iPhone10,2, os-version: 12], [device: iPhone10,3, os-version: 12], [device: iPhone10,6, os-version: 12], [device: iPhone9,4, os-version: 12], [device: iPhone9,2, os-version: 12], and [device: iPhone11,4, os-version: 12]
+App + On Demand Resources size: 2.8 MB compressed, 8.8 MB uncompressed
+App size: 2.8 MB compressed, 8.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConnectToEDRSimple-6C9B1E8F-7D05-4E23-B3A6-1A21BE9C0AE6.ipa
+Supported variant descriptors: [device: iPhone10,6, os-version: 11], [device: iPhone10,3, os-version: 11], [device: iPhone9,4, os-version: 11], [device: iPhone9,2, os-version: 11], [device: iPhone10,2, os-version: 11], and [device: iPhone10,5, os-version: 11]
+App + On Demand Resources size: 2.8 MB compressed, 8.8 MB uncompressed
+App size: 2.8 MB compressed, 8.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConnectToEDRSimple-80CDFC76-0CE3-44EA-9EF9-91F345DF3EA7.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 12]
+App + On Demand Resources size: 2.8 MB compressed, 8.8 MB uncompressed
+App size: 2.8 MB compressed, 8.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConnectToEDRSimple-9678D067-B41A-43C6-A83D-94BB093E2DB6.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12]
+App + On Demand Resources size: 2.8 MB compressed, 8.8 MB uncompressed
+App size: 2.8 MB compressed, 8.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConnectToEDRSimple-AAAF14FE-A402-4593-8E4F-3683D699E9B2.ipa
+Supported variant descriptors: [device: iPad6,3, os-version: 11], [device: iPad7,4, os-version: 11], [device: iPad6,4, os-version: 11], [device: iPad7,2, os-version: 11], [device: iPad7,3, os-version: 11], and [device: iPad7,1, os-version: 11]
+App + On Demand Resources size: 2.8 MB compressed, 8.8 MB uncompressed
+App size: 2.8 MB compressed, 8.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConnectToEDRSimple-C616EB9B-ED45-4268-B650-C8F786D6015E.ipa
+Supported variant descriptors: [device: iPhone10,4, os-version: 12], [device: iPhone9,1, os-version: 12], [device: iPhone9,3, os-version: 12], and [device: iPhone10,1, os-version: 12]
+App + On Demand Resources size: 2.7 MB compressed, 8.8 MB uncompressed
+App size: 2.7 MB compressed, 8.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ConnectToEDRSimple.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 3.7 MB compressed, 8.8 MB uncompressed
+App size: 3.7 MB compressed, 8.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
